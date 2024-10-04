@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">AndroidSubmission</string>
+    <string name="text_splash_screen">Layanan Kereta Api Cepat Indonesia</string>
+    <string name="sample_description">Menggunakan lokomotif CC206 yang diproduksi oleh General Electric. Lokomotif ini memiliki daya sebesar 2.250 HP dengan kecepatan maksimal 120 km/jam. Argo Bromo Anggrek adalah kereta api eksekutif yang menghubungkan Jakarta dan Surabaya dengan perjalanan siang dan malam.</string>
+    <string name="sample_title">KA ARGO BROMO</string>
+    <string name="text_share">Bagikan Informasi\n</string>
+
+    <string-array name="daftar_lokomotif">
+        <item>Argo Bromo Anggrek</item>
+        <item>Taksaka</item>
+        <item>Lodaya</item>
+        <item>Senja Utama Solo</item>
+        <item>Kutojaya Utara</item>
+        <item>Argo Parahyangan</item>
+        <item>Bima</item>
+        <item>Gajayana</item>
+        <item>Majapahit</item>
+        <item>Matarmaja</item>
+    </string-array>
+
+    <string-array name="deskripsi_lokomotif">
+        <item>Menggunakan lokomotif CC206 yang diproduksi oleh General Electric. Lokomotif ini memiliki daya sebesar 2.250 HP dengan kecepatan maksimal 120 km/jam. Argo Bromo Anggrek adalah kereta api eksekutif yang menghubungkan Jakarta dan Surabaya dengan perjalanan siang dan malam.</item>
+        <item>Ditenagai oleh lokomotif CC206. Kereta api ini melayani rute Yogyakarta - Jakarta. CC206 dikenal sebagai lokomotif diesel elektrik yang kuat, cocok untuk perjalanan jarak jauh dengan kecepatan yang stabil dan kapasitas angkut tinggi.</item>
+        <item>Lokomotif CC201 atau CC206 sering digunakan untuk kereta api ini. Lokomotif CC201 memiliki tenaga sebesar 1.950 HP dan berkecepatan maksimal 100 km/jam. Kereta api Lodaya melayani rute Solo - Bandung melalui Yogyakarta.</item>
+        <item>Lokomotif CC201 atau CC203 sering digunakan pada kereta ini. Lokomotif CC203 lebih ringan dibanding CC201 namun tetap memiliki kekuatan yang sama. Senja Utama Solo adalah kereta kelas bisnis dan ekonomi dengan rute Solo - Jakarta.</item>
+        <item>Menggunakan lokomotif CC206 yang merupakan andalan untuk perjalanan jarak jauh. Kutojaya Utara adalah kereta kelas ekonomi yang menghubungkan Kutoarjo dan Jakarta.</item>
+        <item>Kereta ini sering menggunakan lokomotif CC206. Lokomotif ini kuat dalam mendaki jalur pegunungan yang menghubungkan Bandung dan Jakarta, dengan kekuatan mesin yang mampu menarik rangkaian kereta berkapasitas besar.</item>
+        <item>Menggunakan lokomotif CC206 dengan kecepatan maksimal hingga 120 km/jam. Bima adalah kereta api eksekutif dengan layanan malam dari Jakarta menuju Surabaya, memberikan pengalaman perjalanan yang nyaman bagi penumpang.</item>
+        <item>Lokomotif CC206 sering digunakan untuk menarik kereta Gajayana. Kereta ini menghubungkan Jakarta dan Malang dengan layanan kelas eksekutif. Lokomotif ini mampu memberikan akselerasi yang baik, khususnya di jalur pegunungan.</item>
+        <item>Kereta Majapahit sering menggunakan lokomotif CC206. Lokomotif ini cocok untuk perjalanan jarak jauh dengan kecepatan yang stabil, dan Majapahit menghubungkan Jakarta dengan Malang dengan layanan kelas ekonomi AC plus.</item>
+        <item>Lokomotif CC201 sering kali digunakan pada kereta ini. Matarmaja adalah kereta api ekonomi yang melayani rute Malang - Jakarta. CC201 memiliki kecepatan maksimum sekitar 100 km/jam dengan daya tahan tinggi untuk perjalanan jarak jauh.</item>
+    </string-array>
+
+    <string-array name="image_lokomotif">
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Argo_Bromo_Anggrek_New_Generation_in_BKS.jpg/1200px-Argo_Bromo_Anggrek_New_Generation_in_BKS.jpg</item>
+        <item>https://awsimages.detik.net.id/community/media/visual/2024/01/18/ka-taksaka-pakai-kereta-eksekutif-new-generation-dan-kereta-luxury-new-generation_169.jpeg</item>
+        <item>https://awsimages.detik.net.id/community/media/visual/2024/05/02/ka-lodaya-new-generation-relasi-bandung-solo-balapan_169.jpeg?w=1200</item>
+        <item>https://awsimages.detik.net.id/community/media/visual/2016/03/10/ec24965c-dc1a-4d70-95b5-4aa5bfb14dfc.jpg?w=3264</item>
+        <item>https://img.antaranews.com/cache/1200x800/2018/09/kereta-new-image.jpg.webp</item>
+        <item>https://asset.kompas.com/crops/UjO8VKQup3Kdz8bYMGbMc33bhkA=/110x0:700x393/750x500/data/photo/2022/07/26/62df8fb2e152e.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/id/thumb/b/b0/Bima_60.jpg/1200px-Bima_60.jpg</item>
+        <item>https://assets-a1.kompasiana.com/items/album/2022/07/27/img-20200830-133111-62e0aeeb08a8b51d830d3a72.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/id/thumb/3/3e/Majapahit_New_Generation.jpg/1200px-Majapahit_New_Generation.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/1/17/Kereta_Api_Menikung_%28cropped%29.jpg</item>
+    </string-array>
+
+</resources>
